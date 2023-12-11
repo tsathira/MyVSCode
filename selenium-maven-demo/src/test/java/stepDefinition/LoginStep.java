@@ -90,3 +90,4 @@ Assert.assertTrue(title.contains(expectedTitle));
 }
 
 //from local to git
+//from git to local
